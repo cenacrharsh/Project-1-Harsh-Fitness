@@ -5,6 +5,7 @@ body {
   margin: 0px;
   padding: 0px;
   background: url("img.jpg");
+  opacity: 1;
 }
 .left {
   /* border: 2px solid red; */
